@@ -52,3 +52,12 @@ F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp
 F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
 F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
 F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+F:\PAF-kiet\NP saadi\NP_assignment2\Clients\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache

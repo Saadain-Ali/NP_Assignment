@@ -27,8 +27,8 @@ namespace ChatApp_Clients_
             
             //IPEndPoint point = new IPEndPoint(IPAddress.Parse("192.168.0.86"), 8002);
             //client = new TcpClient(point);
-            //client.Connect(IPAddress.Loopback, 8001);
-            client.Connect(IPAddress.Parse("192.168.0.86"),8001);
+            client.Connect(IPAddress.Loopback, 8001);
+            //client.Connect(IPAddress.Parse("192.168.0.86"),8001);
             Thread t = new Thread(ReadMessage);
             t.Start();
         }
@@ -56,6 +56,11 @@ namespace ChatApp_Clients_
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

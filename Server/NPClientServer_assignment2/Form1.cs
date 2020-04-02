@@ -27,7 +27,8 @@ namespace NPClientServer_assignment2
         private void Form1_Load(object sender, EventArgs e)
         {
             CheckForIllegalCrossThreadCalls = false;
-            server = new TcpListener(IPAddress.Parse("192.168.0.86"), 8001); //My Servers IP
+            server = new TcpListener(IPAddress.Loopback, 8001);
+            //server = new TcpListener(IPAddress.Parse("192.168.0.86"), 8001); //My Servers IP
             server.Start(10);
             Thread t2 = new Thread(AcceptClient);
             t2.Start();
@@ -63,8 +64,8 @@ namespace NPClientServer_assignment2
                 NetworkStream stream = client.GetStream();
                 StreamReader sdr = new StreamReader(stream);
                 string msg = sdr.ReadLine();
-                textBox2.AppendText(Environment.NewLine);
-                textBox2.AppendText("Client" + (clients.IndexOf(cur)+1) + ": "  + msg);
+                textBox1.AppendText(Environment.NewLine);
+                textBox1.AppendText("Client" + (clients.IndexOf(cur)+1) + ": "  + msg);
             }
         }
 

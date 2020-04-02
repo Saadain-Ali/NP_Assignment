@@ -98,8 +98,6 @@
             // grpRbtn
             // 
             this.grpRbtn.AutoSize = true;
-            this.grpRbtn.Checked = true;
-            this.grpRbtn.CheckState = System.Windows.Forms.CheckState.Checked;
             this.grpRbtn.Location = new System.Drawing.Point(350, 212);
             this.grpRbtn.Name = "grpRbtn";
             this.grpRbtn.Size = new System.Drawing.Size(101, 17);

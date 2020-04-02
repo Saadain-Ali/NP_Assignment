@@ -7,3 +7,12 @@ c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\
 c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.csproj.GenerateResource.Cache
 c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.exe
 c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.pdb
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.exe.config
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.exe
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.pdb
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.exe
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.pdb
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.csprojResolveAssemblyReference.cache
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.Form1.resources
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.Properties.Resources.resources
+F:\PAF-kiet\NP saadi\NP_assignment2\Server\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.csproj.GenerateResource.Cache

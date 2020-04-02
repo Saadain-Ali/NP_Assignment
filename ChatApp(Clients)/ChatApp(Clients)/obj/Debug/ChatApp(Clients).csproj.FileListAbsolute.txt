@@ -1,0 +1,54 @@
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+c:\users\glab.kietnn\documents\visual studio 2012\Projects\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+C:\Users\glab\Desktop\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+C:\Users\HP\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+C:\Users\Misbah\Desktop\NP\code\hamza\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+E:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe.config
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).exe
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).pdb
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).exe
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\bin\Debug\ChatApp(Clients).pdb
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csprojResolveAssemblyReference.cache
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Form1.resources
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp_Clients_.Properties.Resources.resources
+F:\PAF-kiet\NP saadi\chatapp\ChatApp(Clients)\ChatApp(Clients)\obj\Debug\ChatApp(Clients).csproj.GenerateResource.Cache

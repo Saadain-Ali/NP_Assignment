@@ -1,0 +1,9 @@
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.exe.config
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.exe
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\bin\Debug\NPClientServer_assignment2.pdb
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.csprojResolveAssemblyReference.cache
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.Form1.resources
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.Properties.Resources.resources
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.csproj.GenerateResource.Cache
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.exe
+c:\users\saadi\documents\visual studio 2015\Projects\NPClientServer_assignment2\NPClientServer_assignment2\obj\Debug\NPClientServer_assignment2.pdb
